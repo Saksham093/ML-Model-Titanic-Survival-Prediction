@@ -12,5 +12,3 @@ In this challenge, we need to build a predictive model that answers the question
 4. Train Test Split(But given dataset is already splitted)
 5. Logistic Regression Model
 6. Evaluation
-
-![image.png](attachment:e5e43a48-63f4-4008-b520-a3a84245dcea.png)
